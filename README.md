@@ -9,7 +9,6 @@
 
 
 ### Features:
-- ### Open Source!!
 
 - #### 12 Websites Supported 
 
@@ -18,6 +17,8 @@
 - #### Always being updated!
 
 - #### Live Support Discord Coming Soon!
+
+- #### Comes with Wordlists!
 
 #### Preview: https://gyazo.com/561e9e27a23d127efcd43dc1a81dbc28
 
